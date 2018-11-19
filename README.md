@@ -1,10 +1,12 @@
-#Overview
+# Overview
 
-##Prerequisites
+## Prerequisites
 
-- Install Ruby
-- Install Jekyll
+1. Install Ruby :
+    - Follow instructions here : https://www.ruby-lang.org/en/documentation/installation/
+2. Install Jekyll :
+    - `gem install bundler jekyll`
 
-##Build website
+## Build website
 
-1. jekyll build
+1. Execute : `jekyll build`
